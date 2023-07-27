@@ -1,3 +1,4 @@
+# fifo ,lru ,lfu
 from collections import deque
 def fifo(page_references, page_frames):
     page_table = deque(maxlen=page_frames)

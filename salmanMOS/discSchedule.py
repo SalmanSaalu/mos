@@ -1,3 +1,4 @@
+# fcfs,scan , csan
 class DiskScheduling():
     
     def fcfs(self,initial_head, requests):

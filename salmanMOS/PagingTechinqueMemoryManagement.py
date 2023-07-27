@@ -1,3 +1,4 @@
+
 import math
 
 # Function to calculate the number of pages required for a given memory size and page size

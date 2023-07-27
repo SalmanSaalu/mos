@@ -1,3 +1,5 @@
+# fcfs , sjfa , roundrobin
+
 def calculate_waiting_turnaround_time(processes):
     n = len(processes)
     waiting_time = [0] * n

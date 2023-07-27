@@ -1,3 +1,4 @@
+# sequential , indexed ,linked
 class FileAllocation:
     def __init__(self, total_blocks):
         self.total_blocks = total_blocks
